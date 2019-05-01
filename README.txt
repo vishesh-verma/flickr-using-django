@@ -85,5 +85,3 @@ List of API's
           In order to make it work for other methods we just need to write handler for that.
           this does not changes the architecture of it.
 
-Last Note- please do contact me for any doubts or queries this project is completely functional
-           in my local machine.
